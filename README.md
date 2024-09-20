@@ -41,6 +41,17 @@ Ping du conteneur :
 ![image](https://github.com/user-attachments/assets/babcf421-1fd7-4851-9743-4ea019bcbbc8)
 
 
+Création du script test.sh 
+
+![image](https://github.com/user-attachments/assets/6e84387c-05a7-4ccf-ad42-c46cf65f4161)
+
+Mise en fonctionnement du script pendant que le conteneur FASTAPI est en route : 
+
+![image](https://github.com/user-attachments/assets/85c751b7-5db0-4d9a-9947-3133eb2eb798)
+
+
+
+
 
 
 
