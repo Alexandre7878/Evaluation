@@ -68,6 +68,20 @@ Résultat du pytest :
 
 
 
+Exo 4 : DOCKERHUB
+
+Question 1: 
+
+Création compte + repository dockerhub
+
+![image](https://github.com/user-attachments/assets/9a7cbbaa-0db5-44f7-876d-c607fb4a1def)
+
+Création des repository secrets sur GITHUB
+
+![image](https://github.com/user-attachments/assets/daaa3061-4ffb-4053-8b02-1cc0ecc268f2)
+
+
+
 
 
 
