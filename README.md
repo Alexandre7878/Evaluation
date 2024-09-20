@@ -50,6 +50,27 @@ Mise en fonctionnement du script pendant que le conteneur FASTAPI est en route :
 ![image](https://github.com/user-attachments/assets/85c751b7-5db0-4d9a-9947-3133eb2eb798)
 
 
+exercice 3 : Create a development Branch and Implement testing 
+
+Question 1 : 
+
+Création de la branche dev : 
+
+![image](https://github.com/user-attachments/assets/997b1f43-2533-4b4b-84fe-64b99e2a06e9)
+
+Question 2 : création du fichier test_app.py pour tester mon fastapi:
+
+![image](https://github.com/user-attachments/assets/b5092aa1-128a-4c4c-a6d7-7e46c6a6f30e)
+
+Résultat du pytest : 
+
+![image](https://github.com/user-attachments/assets/957775c0-373f-41d7-ba83-b94ab56eac3e)
+
+
+
+
+
+
 
 
 
