@@ -36,4 +36,11 @@ Conteneur Docker fonctionnel, FastAPI lancé :
 
 ![image](https://github.com/user-attachments/assets/5f88b62b-23d2-45d5-a50e-3ab3aed60f93)
 
+Ping du conteneur : 
+
+![image](https://github.com/user-attachments/assets/babcf421-1fd7-4851-9743-4ea019bcbbc8)
+
+
+
+
 
